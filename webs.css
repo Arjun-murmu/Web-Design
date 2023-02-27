@@ -1,0 +1,51 @@
+b{
+    color : red;
+    text-align: 50px;
+}
+label{
+    color : black;
+}
+p{
+  text-decoration: underline;
+    margin: 2px;
+    padding: 5px;
+}
+body{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+   background-image:url(el.png);
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+}
+div{
+   display: table;
+   height: 10vh;
+   margin: 0 auto;
+   padding: 0 15px;
+   background-color: rgb(226 226 157);
+   width: 300px;
+   border: 15px solid rgb(68, 223, 68);
+   padding-top: 0%;
+   padding-bottom: 0px;
+   margin-left: 500px;
+   margin-top: 50px;
+}
+img{
+    border-image-width: 10px;
+    
+}
+ab
+{
+    color: #03032e;
+    min-height: fit-content;
+    max-height: 0vh;
+
+}
+footer{
+   color:#121323d4;
+   position:fixed;
+   
+   
+}

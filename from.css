@@ -1,0 +1,20 @@
+body{
+    
+    background-image: url(scenery.png);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+   background-attachment:fixed;
+}
+adr{
+   table-layout: ;
+}
+div{
+    background-color: rgb(0 255 160 / 31%);
+    width: 300px;
+   height: 10hv;
+    border: 5px solid rgb(220 182 173);
+    padding: 150px;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
